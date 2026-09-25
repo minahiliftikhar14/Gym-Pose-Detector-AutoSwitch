@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+psycopg2-binary
+numpy
